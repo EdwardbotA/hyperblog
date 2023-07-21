@@ -12,4 +12,4 @@ un blog asombroso para aprender Git y GitHub
 
 Para finalizar es **importante aclarar** que esto es con **fines de practica** si hay un error te agradezco que me ayudes a mejorar y no me destruyas con tus comentarios.
 
-###Muchas Gracias.
+### Muchas Gracias.

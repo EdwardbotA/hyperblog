@@ -9,6 +9,7 @@ un blog asombroso para aprender Git y GitHub
 * Aplicación de HTML y CSS
 * Frustración en algunos casos por que los comandos se me olvidan
 * La alegría de poder lograr algo cada día
+* Creado por Mi
 
 Para finalizar es **importante aclarar** que esto es con **fines de practica** si hay un error te agradezco que me ayudes a mejorar y no me destruyas con tus comentarios.
 

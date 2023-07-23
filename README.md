@@ -11,6 +11,7 @@ un blog asombroso para aprender Git y GitHub
 * La alegría de poder lograr algo cada día
 * Creado por Mi
 * Incluye aportaciones desde Linux
+* Disponible para el que lo desee
 
 Para finalizar es **importante aclarar** que esto es con **fines de practica** si hay un error te agradezco que me ayudes a mejorar y no me destruyas con tus comentarios.
 
